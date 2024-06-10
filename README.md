@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cris
-- 👀 I’m interested in Machine Learning(ML) and Quantum Computing(QC)
-- 🌱 I’m currently looking for a job in IT Companies related to ML and QC
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently looking for a job in an IT company.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cris.angelo564@gmail.com
 - 😄 Pronouns: he/him

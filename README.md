@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cris
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently looking for a job in an IT company.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cris.angelo564@gmail.com
